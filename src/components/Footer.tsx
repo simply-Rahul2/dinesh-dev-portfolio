@@ -13,7 +13,7 @@ const Footer = () => {
               Dinesh Reddy Y
             </h3>
             <p className="text-muted-foreground max-w-sm">
-              Front-End Developer passionate about creating exceptional web experiences 
+              Front-End Developer based in Sweden, passionate about creating exceptional web experiences 
               and scalable cloud solutions.
             </p>
           </div>
@@ -46,21 +46,21 @@ const Footer = () => {
             <h4 className="text-lg font-semibold text-foreground">Connect</h4>
             <div className="space-y-2">
               <a 
-                href="mailto:dineshreddyy5@gmail.com"
+                href="mailto:ydineshreddy83@gmail.com"
                 className="text-muted-foreground hover:text-primary transition-smooth text-sm block"
               >
-                dineshreddyy5@gmail.com
+                ydineshreddy83@gmail.com
               </a>
               <a 
-                href="tel:+447669611050"
+                href="tel:+46769641050"
                 className="text-muted-foreground hover:text-primary transition-smooth text-sm block"
               >
-                +44 7669611050
+                +46 76-964-1050
               </a>
             </div>
             <div className="flex gap-4 pt-2">
               <a 
-                href="https://github.com/DineshReddyy5S" 
+                href="https://github.com/Dineshreddy583" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="p-2 rounded-lg bg-background hover:bg-primary hover:text-primary-foreground transition-smooth"
@@ -68,7 +68,7 @@ const Footer = () => {
                 <Github size={20} />
               </a>
               <a 
-                href="https://linkedin.com/in/dineshreddyy5s" 
+                href="https://www.linkedin.com/in/dinesh-reddy-yeddula-460317356/" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="p-2 rounded-lg bg-background hover:bg-primary hover:text-primary-foreground transition-smooth"
@@ -76,7 +76,7 @@ const Footer = () => {
                 <Linkedin size={20} />
               </a>
               <a 
-                href="mailto:dineshreddyy5@gmail.com"
+                href="mailto:ydineshreddy83@gmail.com"
                 className="p-2 rounded-lg bg-background hover:bg-primary hover:text-primary-foreground transition-smooth"
               >
                 <Mail size={20} />

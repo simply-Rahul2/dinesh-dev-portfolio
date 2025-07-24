@@ -7,23 +7,23 @@ const Contact = () => {
     {
       icon: Mail,
       label: 'Email',
-      value: 'dineshreddyy5@gmail.com',
-      href: 'mailto:dineshreddyy5@gmail.com',
+      value: 'ydineshreddy83@gmail.com',
+      href: 'mailto:ydineshreddy83@gmail.com',
       description: 'Send me an email'
     },
     {
       icon: Phone,
       label: 'Phone',
-      value: '07669611050',
-      href: 'tel:+447669611050',
+      value: '076-964-1050',
+      href: 'tel:+46769641050',
       description: 'Give me a call'
     },
     {
       icon: MapPin,
       label: 'Location',
-      value: 'United Kingdom',
+      value: 'Sweden',
       href: null,
-      description: 'Based in the UK'
+      description: 'Based in Sweden'
     }
   ];
 
@@ -31,15 +31,15 @@ const Contact = () => {
     {
       icon: Github,
       label: 'GitHub',
-      username: '@DineshReddyy5S',
-      href: 'https://github.com/DineshReddyy5S',
+      username: '@Dineshreddy583',
+      href: 'https://github.com/Dineshreddy583',
       description: 'Check out my code'
     },
     {
       icon: Linkedin,
       label: 'LinkedIn',
-      username: 'Dinesh Reddy Y',
-      href: 'https://linkedin.com/in/dineshreddyy5s',
+      username: 'Dinesh Reddy Yeddula',
+      href: 'https://www.linkedin.com/in/dinesh-reddy-yeddula-460317356/',
       description: 'Connect professionally'
     }
   ];
@@ -142,7 +142,7 @@ const Contact = () => {
                       className="gradient-primary text-primary-foreground hover:scale-105 transition-bounce glow-effect flex-1"
                       asChild
                     >
-                      <a href="mailto:dineshreddyy5@gmail.com">
+                      <a href="mailto:ydineshreddy83@gmail.com">
                         <Send className="mr-2 h-4 w-4" />
                         Send Email
                       </a>
@@ -152,7 +152,7 @@ const Contact = () => {
                       className="border-primary text-primary hover:bg-primary hover:text-primary-foreground transition-smooth flex-1"
                       asChild
                     >
-                      <a href="https://linkedin.com/in/dineshreddyy5s" target="_blank" rel="noopener noreferrer">
+                      <a href="https://www.linkedin.com/in/dinesh-reddy-yeddula-460317356/" target="_blank" rel="noopener noreferrer">
                         <Linkedin className="mr-2 h-4 w-4" />
                         LinkedIn
                       </a>
