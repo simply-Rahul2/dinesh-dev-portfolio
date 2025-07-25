@@ -40,8 +40,8 @@ const Education = () => {
     <section id="education" className="py-20 bg-card/30">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16 animate-fade-in">
-          <h2 className="text-3xl md:text-4xl font-bold mb-4 section-title">
-            Educational Background
+          <h2 className="text-3xl md:text-4xl font-bold mb-6 section-title">
+            Education
           </h2>
           <div className="w-20 h-1 bg-primary mx-auto mb-8"></div>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">

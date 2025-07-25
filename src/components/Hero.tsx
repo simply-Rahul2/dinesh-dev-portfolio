@@ -33,7 +33,7 @@ const Hero = () => {
               
               <h1 className="text-5xl md:text-7xl font-bold leading-tight">
                 Hi, I'm{' '}
-                <span className="gradient-text">
+                <span className="text-blue-400">
                   Dinesh Reddy
                 </span>
               </h1>
